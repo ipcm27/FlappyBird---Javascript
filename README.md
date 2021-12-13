@@ -1,5 +1,9 @@
 # FlappyBird---Javascript
 
+#🕹️ Preview
+![flappy gif](https://user-images.githubusercontent.com/62574338/145890173-86097917-f009-4410-a4c9-867300b9677f.gif)
+
+
 # 🏷️ Contexto
 Fiz esse projeto a fim de trabalhar manipulação do DOM.<br>
 Finalizei ele em outubro de 2021 no curso da plataforma UDEMY/COD3R no curso completo de web moderno.<br>
