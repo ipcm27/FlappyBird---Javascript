@@ -1,6 +1,6 @@
-# FlappyBird---Javascript
+# FlappyBird-Javascript
 
-#🕹️ Preview
+# 🕹️ Preview
 ![flappy gif](https://user-images.githubusercontent.com/62574338/145890173-86097917-f009-4410-a4c9-867300b9677f.gif)
 
 
